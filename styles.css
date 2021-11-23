@@ -3,6 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200&family=Sacramento&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+* {
+  box-sizing: border-box;
+}
+
 .header{
 background-color:#E4F9F5;
 position:relative;
